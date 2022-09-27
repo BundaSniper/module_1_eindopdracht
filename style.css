@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ body {
+    background-color: 0, 0, 0, 0,.784;
+ }
+
+
+ #container {
+    width: 960px;
+    margin: 0 auto;
+    border:  1px solid#000000;
+ }
+
+ #header {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: blue;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROWpErr0bg62hVUNOHHmgVrHDyq7SdOsiPVQ&usqp=CAU");
+}
+
+#header img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 10px solid#fff;
+}
+
+#header img:hover{
+    transition: 30s;
+    transform: rotate(36000deg);
+}
+
+#header h1 {
+    padding-top: 30px;
+    color: black;
+}
+
+#content {
+    background-color: rgb(255, 255, 255);
+    color: yellow;
+    padding: 50px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ADMHdZdp1tGyZaxx6zN9SHfqJn71XtSaKA&usqp=CAU");
+}
+
+#intro {
+    text-align: center;
+    color: yellow;
+}
+
+#content h2 {
+    text-align: center;
+}
+
+#content #intro {
+    padding-top: 20px;
+}
+
+#content #overig {
+    padding-top: 20px;
+}
+
+#content #kennis {
+    padding-top: 20px;
+}
+
+#content #kennis ul {
+    padding-left: 15px;
+}
+
+#experimental {
+    background-color: rgb(0, 255, 30);
+    height: 500px;
+    padding: 50px;
+    background-image: url("https://wikimag.org/wp-content/uploads/2022/01/ash-kaashh-real-name-713x1024.webp");
+    color: #009dff;
+}
+
+#experimental h2 {
+    text-align: center;
+    color: #009dff;
+}
+
+#experimental h3 {
+text-align: left;
+color: #009dff;
+}
+
+#footer {
+background-color: #ff0000;
+height: 100px;
+color: #fff;
+text-align: center;
+padding-top: 20px;
+background-image: url("https://pbs.twimg.com/media/EjgdJ7aXgAE4U0e.jpg");
+}
+#footer ul {
+    display: block;
+    padding-top: 10px;
+}
+
+#footer ul li {
+    display: inline-block;
+}
+
+#footer ul li a {
+    padding-top: 10px;
+}
+
+#footer ul li a img {
+    height: 75px;
+}
+
+body {
+    background-image: url("https://i.pinimg.com/736x/67/8f/56/678f563d14eb13ba08d3abbd7d738ce9.jpg");
+  }
+
+#ash {
+    padding-left: 350px;
+    height: 500;
+}
+
+#kash {
+
+padding-left: 250;
+height: 500px;
+}
